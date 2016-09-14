@@ -11,7 +11,7 @@ iOS7 + Objective-C
 
 iOS8 + Swift
 
-iOS9 + Swift
+iOS9 + Swift 2
 
 
 
