@@ -1,4 +1,4 @@
-kidscoding
+iOS Course
 ==========
 
 iOS开发初学者入门
@@ -18,7 +18,3 @@ iOS9 + Swift 2
 笨猫学编程QQ群：375143733
 
 笨猫学编程-VR/AR开发QQ群：389843263
-
-玩家一号VR/AR兴趣QQ群：98606959
-
-玩家一号VR/AR开发讨论专区：http://www.vr910.com/forum.php?mod=forumdisplay&fid=51
