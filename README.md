@@ -9,10 +9,6 @@ iOS开发初学者入门
 
 iOS7 + Objective-C
 
-iOS8 + Swift
-
-iOS9 + Swift 2
-
 iOS11 + Swift4 + Xcode 9
 
 笨猫学编程QQ群：375143733
