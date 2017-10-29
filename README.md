@@ -7,7 +7,7 @@ iOS开发初学者入门
 
 2.iOS开发初学者入门教程
 
-iOS7 + Objective-C
+iOS7 + Objective-C + Xcode 5
 
 iOS11 + Swift4 + Xcode 9
 
