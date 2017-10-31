@@ -3,7 +3,7 @@ iOS Course
 
 iOS开发初学者入门
 
-1.Cocos2D权威指南电子版
+1.Cocos2D权威指南电子版- Deleted
 Cocos2d-iPhone(Objective-C)，建议改学cocos2d-x(C++)
 
 2.iOS开发初学者入门教程
