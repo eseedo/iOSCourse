@@ -14,6 +14,6 @@ iOS11 + Swift4 + Xcode 9
 
 笨猫学编程QQ群：375143733
 
-icode.ai
+Personal Website: http://icode.ai
 
 今日头条号： icode
