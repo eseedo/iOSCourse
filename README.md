@@ -30,8 +30,8 @@ Github:
 https://github.com/eseedo
 
 个人网站：
-http://icode.ai/ （暂未启用）
-http://icode.fun (暂未启用）
+http://icode.ai/ （英文版）
+http://icode.fun (中文版）
 
 知乎专栏：
 
