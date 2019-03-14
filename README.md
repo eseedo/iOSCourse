@@ -16,8 +16,6 @@ iOS12 + Swift4.2 + Xcode10（已完成）
 
 iOS Native + ARKit
 
-Unity3d + ARKit
-
 -----------------------------------
 
 
