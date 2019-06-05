@@ -14,7 +14,7 @@ iOS12 + Swift4.2 + Xcode10（已完成）
 
 2.ARKit入门教程
 
-iOS Native + ARKit
+iOS  + ARKit
 
 -----------------------------------
 
@@ -35,6 +35,5 @@ Python + Tensorflow
 
 知乎专栏：https://zhuanlan.zhihu.com/kidscoding
 
-今日头条号：笨猫爱编程
 
 
