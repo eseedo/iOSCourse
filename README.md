@@ -29,11 +29,10 @@ Python + Tensorflow
 
 联系方式：
 
-微信公众号： icodefun
+头条号： 寒酒仙
 
-答疑： http://icode.fun 
+微信公众号：vrlife
 
-知乎专栏：https://zhuanlan.zhihu.com/kidscoding
-
+教程讨论答疑： http://icode.fun 
 
 
