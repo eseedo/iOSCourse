@@ -35,6 +35,5 @@ Python + Tensorflow
 
 微信公众号：vrlife
 
-教程讨论答疑： http://icode.fun 
 
 
