@@ -31,8 +31,6 @@ Python + Tensorflow
 
 个人微信号：iseedo
 
-头条号： 寒酒仙
-
 微信公众号：vrlife
 
 
