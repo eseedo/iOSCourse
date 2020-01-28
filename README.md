@@ -5,33 +5,26 @@ iOS Course
 
 1.让不懂编程的人爱上iPhone开发-
 
-iOS7 + Objective-C + Xcode 5(已有，待更新）
+iOS7 + Objective-C + Xcode 5(已有）
+iOS12 + Swift4.2 + Xcode10（已有）
 
-iOS12 + Swift4.2 + Xcode10（已完成）
+iOS13 + Swift5.1 + Xcode11-使用SwiftUI（更新中）
 
 -----------------------------------
 
 
-2.ARKit入门教程
+2.iOS ARKit入门教程
 
-iOS  + ARKit
+iOS  + ARKit（更新中）
 
 -----------------------------------
 
 
 3.iOS AI开发入门
 
-iOS + CoreML 
+iOS + CoreML （更新中）
 
-Python + Tensorflow 
 
------------------------------------
-
-联系方式：
-
-个人微信号：iseedo
-
-微信公众号：vrlife
 
 
 
